@@ -6,17 +6,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 徐代龙的技术专栏
-brief-intro: Android and Python Coder
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://643435675.github.io" # the base hostname & protocol for your site
+title: json
+brief-intro: h5游戏
+baseurl: ""
+url: "https://jsondoc.github.io/"
 
 permalink: /:year/:month/:day/:title/
 
 # other links
 twitter_username: #gaohaoyang126
 facebook_username: #gaohaoyang.water
-github_username:  643435675
+github_username:  json
 email: 643435675@QQ.com
 weibo_username: 3115521wh
 zhihu_username: hll643435675
